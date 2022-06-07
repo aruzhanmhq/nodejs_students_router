@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_students_router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aruzhanmhq/nodejs_students_router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruzhanmhq/nodejs_students_router/issues"
+  },
+  "homepage": "https://github.com/aruzhanmhq/nodejs_students_router#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
